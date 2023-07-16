@@ -8,4 +8,4 @@ Themes / Configs for obscure window managers
 | JWM       | 
 | i3WM      | 
 
-itzselenux.github.io/web/wmguru/index.html
+https://itzselenux.github.io/web/wmguru/index.html
